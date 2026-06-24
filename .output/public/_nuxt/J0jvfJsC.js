@@ -1,0 +1,1 @@
+import{U as n,s as u,V as c,v as l,x as f}from"./XjrIAklQ.js";const h=n(async(m,d)=>{let e,t;{const{currentUser:i,initializing:a}=u();if(a.value&&([e,t]=c(()=>new Promise(s=>{const o=l(()=>a.value,r=>{r||(o(),s())},{immediate:!0})})),await e,t()),!i.value)return f("/login")}});export{h as default};

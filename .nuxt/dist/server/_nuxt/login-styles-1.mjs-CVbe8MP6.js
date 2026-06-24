@@ -1,0 +1,5 @@
+const login_vue_vue_type_style_index_0_scoped_eb35c961_lang = ".auth-page[data-v-eb35c961]{align-items:center;display:flex;justify-content:center;min-height:70vh;padding:2rem}.auth-card[data-v-eb35c961]{background:#fff;border-radius:16px;box-shadow:0 16px 32px #00000014;padding:2rem;text-align:center;width:min(420px,100%)}.auth-card h1[data-v-eb35c961]{color:#1a1a2e;margin-bottom:1rem}.auth-card p[data-v-eb35c961]{color:#555;margin-bottom:1.5rem}.btn{&--primary[data-v-eb35c961]{background:#42b883;border:none;border-radius:999px;color:#fff;cursor:pointer;font-size:1rem;padding:.9rem 1.25rem;transition:background .2s ease;width:100%}&--primary[data-v-eb35c961]:disabled{cursor:not-allowed;opacity:.65}}.error-message[data-v-eb35c961]{color:#c62828;margin-top:1rem}";
+export {
+  login_vue_vue_type_style_index_0_scoped_eb35c961_lang as default
+};
+//# sourceMappingURL=login-styles-1.mjs-CVbe8MP6.js.map

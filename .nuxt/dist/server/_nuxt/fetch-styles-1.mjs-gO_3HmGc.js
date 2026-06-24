@@ -1,0 +1,5 @@
+const fetch_vue_vue_type_style_index_0_scoped_4a87b794_lang = ".fetch-page[data-v-4a87b794]{max-width:800px}h2[data-v-4a87b794]{color:#1a1a2e;margin-bottom:.5rem}p[data-v-4a87b794]{color:#444}.actions[data-v-4a87b794]{margin:1rem 0}button[data-v-4a87b794]{background:#42b883;border:none;border-radius:6px;color:#fff;cursor:pointer;font-weight:600;padding:.6rem 1rem}button[data-v-4a87b794]:disabled{cursor:not-allowed;opacity:.7}.estado[data-v-4a87b794]{font-weight:600;margin-top:1rem}.estado--error[data-v-4a87b794]{color:#c62828}.todos-list[data-v-4a87b794]{display:grid;gap:.75rem;list-style:none;margin-top:1rem;padding:0}.todo-item[data-v-4a87b794]{align-items:center;background:#f8f8f8;border:1px solid #ececec;border-radius:8px;display:flex;gap:.75rem;padding:.75rem}.badge[data-v-4a87b794]{border-radius:999px;font-size:.75rem;font-weight:700;padding:.2rem .55rem}.ok[data-v-4a87b794]{background:#e8f5ef;color:#2e7d32}.pending[data-v-4a87b794]{background:#fff3e0;color:#ef6c00}";
+export {
+  fetch_vue_vue_type_style_index_0_scoped_4a87b794_lang as default
+};
+//# sourceMappingURL=fetch-styles-1.mjs-gO_3HmGc.js.map
